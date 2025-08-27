@@ -5,7 +5,9 @@ I'm a passionate and dedicated software developer who loves to build things for 
 Here are a few things about me:
 - Continuous Learner: I'm always looking for new challenges and love expanding my skills. I believe in staying curious and keeping up with the latest technologies.
 - Problem Solver: I enjoy the process of breaking down complex problems and finding elegant solutions. There's nothing more satisfying than seeing a project come to life.
-- Team Player: I thrive in collaborative environments and enjoy working with others to build great products.<br><br>Thanks for stopping by! Feel free to connect or check out my repositories.
+- Team Player: I thrive in collaborative environments and enjoy working with others to build great products.
+
+Thanks for stopping by! Feel free to connect or check out my repositories.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nguyen.charlton) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/synguyen998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/synguyen98) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nguyenmemoria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nghsynguyen98@gmail.com) 
